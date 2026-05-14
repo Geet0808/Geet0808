@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I’m currently working on data analytics and AI-driven projects using SQL, Python, Power BI, Tableau, and modern AI tools to generate insights and automate workflows.<br>I’m looking to collaborate on data analytics projects, AI-powered applications, dashboard development, automation tools, and real-world problem-solving projects.<br>I’m looking for help with advanced AI integration, real-world analytics workflows, deployment strategies, and improving large-scale data handling skills.<br>I’m currently learning advanced data analytics, AI workflows, prompt engineering, business intelligence techniques, and practical applications of Large Language Models (LLMs).<br>Tell me about data analytics, AI tools, automation, dashboards, business insights, emerging technologies, and innovative project ideas.<br>Fun fact: I enjoy combining analytics and AI to turn raw data into meaningful stories and smart solutions.
 
-<!--
-**Geet0808/Geet0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Geet0808&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Geet0808&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Geet0808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=Geet0808&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
